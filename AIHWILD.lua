@@ -1,9 +1,8 @@
-        local ejfgbdjs = game.Players
---local SDIKjFNIEJSMNFdiks =
+local ejfgbdjs = game.Players
 local SDIKjFNIEJSMNFdiks = {
     "52B78BF5-DBBF-412F-8263-B08285C3E8B9", -- trianed kitten (gfx)
     "C2EE9A0D-AB0B-4271-B50C-4DF21EA92881", -- trueonezz
-    "29377DD8-B8B3-40CB-ABA0-BA4E23609EB4", -- dexx
+    "29377DD8-B8B3-40CB-ABA0-BA4E23609EB4", -- lyfe (owner)
     "D874D764-C1A6-40C9-A618-3CC7FD9045FE", -- jakie
     "F7A5C237-2191-43CF-912E-651F10DFB322", -- inactive
     "60416614-7A93-4A07-A116-37A7B6A143D3", -- batoxa (buyer)
@@ -17,6 +16,10 @@ local SDIKjFNIEJSMNFdiks = {
     "20A421CB-27B7-4D5A-A697-600127B7A38B", -- edis (buyer)
     "2C94A55C-665E-4ACB-8EEB-034050DCD80D", -- Slpher (buyer)
     "0a35b2a8-864b-4988-ae2b-16daac1582e5" -- choppa (buyer|account)
+    
 }
-
 if SDIKjFNIEJSMNFdiks[table.find(SDIKjFNIEJSMNFdiks,game:GetService("RbxAnalyticsService"):GetClientId())] == game:GetService("RbxAnalyticsService"):GetClientId() then
+    script()
+    else
+    ejfgbdjs.LocalPlayer:Kick("Error: 163")
+end
