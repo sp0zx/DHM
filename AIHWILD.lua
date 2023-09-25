@@ -2,7 +2,7 @@ local ejfgbdjs = game.Players
 local SDIKjFNIEJSMNFdiks = {
     "52B78BF5-DBBF-412F-8263-B08285C3E8B9", -- trianed kitten (gfx)
     "C2EE9A0D-AB0B-4271-B50C-4DF21EA92881", -- trueonezz
-    "29377DD8-B8B3-40CB-ABA0-BA4E23609EB4", -- lyfe (owner)
+    "0FD8C131-F2BE-455D-8BCB-B8596017CC20", -- lyfe (owner)
     "66A4996A-DCBA-4D67-9E81-7F149BB2B4CE", -- jakie
     "F7A5C237-2191-43CF-912E-651F10DFB322", -- inactive
     "60416614-7A93-4A07-A116-37A7B6A143D3", -- batoxa (buyer)
